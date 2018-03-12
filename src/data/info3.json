@@ -1,0 +1,1413 @@
+[
+ {
+  "id": 1,
+  "media": {
+   "carImage": "https://halodev.blob.core.windows.net/samples/event1/Event1_MainTag.jpg",
+   "plateImage": "https://halodev.blob.core.windows.net/samples/event1/Event1_SecTag.jpg",
+   "video1": "https://halodev.blob.core.windows.net/samples/event1/Event1_Vid01.mp4",
+   "video2": "https://halodev.blob.core.windows.net/samples/event1/Event1_Vid02.mp4"
+  },
+  "eventInfo": {
+   "gpsLat": "39°09'35 N",
+   "gpsLong": "76°41'02 W",
+   "location": "1000 Blk Dorsey Rd, Hanover, MD",
+   "operatorId": "Operator1",
+   "speedLimit": "25",
+   "systemId": "HALO-001",
+   "violationId": "MOE-001",
+   "vehicleSpeed": "54",
+   "vehicleLaneDistance": "11"
+  },
+  "tracks": [
+   {
+    "time": "02/12/2018 11:17:22.860",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.331,
+    "xRange": 111.496,
+    "yVelocity": -0.118,
+    "yRange": -10.598
+   },
+   {
+    "time": "02/12/2018 11:17:22.905",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.555,
+    "xRange": 107.927,
+    "yVelocity": -0.342,
+    "yRange": -10.178
+   },
+   {
+    "time": "02/12/2018 11:17:22.951",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.555,
+    "xRange": 104.147,
+    "yVelocity": -0.342,
+    "yRange": -10.178
+   },
+   {
+    "time": "02/12/2018 11:17:23.004",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.555,
+    "xRange": 100.368,
+    "yVelocity": -0.342,
+    "yRange": -10.759
+   },
+   {
+    "time": "02/12/2018 11:17:23.055",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.779,
+    "xRange": 96.378,
+    "yVelocity": -0.342,
+    "yRange": -10.549
+   },
+   {
+    "time": "02/12/2018 11:17:23.104",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.779,
+    "xRange": 92.598,
+    "yVelocity": -0.342,
+    "yRange": -10.339
+   },
+   {
+    "time": "02/12/2018 11:17:23.170",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 88.819,
+    "yVelocity": -0.566,
+    "yRange": -10.549
+   },
+   {
+    "time": "02/12/2018 11:17:23.204",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 85.039,
+    "yVelocity": -0.566,
+    "yRange": -10.549
+   },
+   {
+    "time": "02/12/2018 11:17:23.250",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 81.26,
+    "yVelocity": -0.566,
+    "yRange": -10.759
+   },
+   {
+    "time": "02/12/2018 11:17:23.303",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 77.48,
+    "yVelocity": -0.566,
+    "yRange": -10.759
+   },
+   {
+    "time": "02/12/2018 11:17:23.367",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 73.701,
+    "yVelocity": -0.566,
+    "yRange": -10.178
+   },
+   {
+    "time": "02/12/2018 11:17:23.411",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 70.131,
+    "yVelocity": -0.566,
+    "yRange": -10.178
+   },
+   {
+    "time": "02/12/2018 11:17:23.453",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.002,
+    "xRange": 66.352,
+    "yVelocity": -0.566,
+    "yRange": -10.178
+   },
+   {
+    "time": "02/12/2018 11:17:23.504",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.226,
+    "xRange": 62.572,
+    "yVelocity": -0.79,
+    "yRange": -10.388
+   },
+   {
+    "time": "02/12/2018 11:17:23.565",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.226,
+    "xRange": 58.793,
+    "yVelocity": -0.79,
+    "yRange": -10.598
+   },
+   {
+    "time": "02/12/2018 11:17:23.604",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.226,
+    "xRange": 55.013,
+    "yVelocity": -0.79,
+    "yRange": -10.808
+   },
+   {
+    "time": "02/12/2018 11:17:23.650",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.45,
+    "xRange": 51.234,
+    "yVelocity": -0.79,
+    "yRange": -10.228
+   },
+   {
+    "time": "02/12/2018 11:17:23.703",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.45,
+    "xRange": 47.454,
+    "yVelocity": -0.79,
+    "yRange": -10.858
+   },
+   {
+    "time": "02/12/2018 11:17:23.770",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.45,
+    "xRange": 43.675,
+    "yVelocity": -0.013,
+    "yRange": -11.278
+   },
+   {
+    "time": "02/12/2018 11:17:23.803",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.673,
+    "xRange": 39.895,
+    "yVelocity": -0.013,
+    "yRange": -11.488
+   },
+   {
+    "time": "02/12/2018 11:17:23.862",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.673,
+    "xRange": 36.115,
+    "yVelocity": -0.013,
+    "yRange": -11.698
+   },
+   {
+    "time": "02/12/2018 11:17:23.906",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.121,
+    "xRange": 32.336,
+    "yVelocity": -0.013,
+    "yRange": -11.698
+   },
+   {
+    "time": "02/12/2018 11:17:23.951",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.121,
+    "xRange": 28.346,
+    "yVelocity": -0.237,
+    "yRange": -11.698
+   },
+   {
+    "time": "02/12/2018 11:17:24.004",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.344,
+    "xRange": 24.567,
+    "yVelocity": -0.237,
+    "yRange": -11.908
+   },
+   {
+    "time": "02/12/2018 11:17:24.051",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.792,
+    "xRange": 20.577,
+    "yVelocity": -0.237,
+    "yRange": -12.328
+   },
+   {
+    "time": "02/12/2018 11:17:24.107",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.792,
+    "xRange": 16.798,
+    "yVelocity": -0.461,
+    "yRange": -12.328
+   },
+   {
+    "time": "02/12/2018 11:17:24.159",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.687,
+    "xRange": 13.018,
+    "yVelocity": -0.461,
+    "yRange": -12.538
+   },
+   {
+    "time": "02/12/2018 11:17:24.203",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.687,
+    "xRange": 9.239,
+    "yVelocity": -0.461,
+    "yRange": -12.328
+   },
+   {
+    "time": "02/12/2018 11:17:24.251",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.91,
+    "xRange": 5.249,
+    "yVelocity": -0.461,
+    "yRange": -11.908
+   },
+   {
+    "time": "02/12/2018 11:17:24.309",
+    "id": 19,
+    "length": 4.4,
+    "xVelocity": -54.134,
+    "xRange": 1.26,
+    "yVelocity": -0.461,
+    "yRange": -11.698
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "media": {
+   "carImage": "https://halodev.blob.core.windows.net/samples/event2/Event2_MainTag.jpg",
+   "plateImage": "https://halodev.blob.core.windows.net/samples/event2/Event2_SecTag.jpg",
+   "video1": "https://halodev.blob.core.windows.net/samples/event2/Event2_Vid01.mp4",
+   "video2": "https://halodev.blob.core.windows.net/samples/event2/Event2_Vid02.mp4"
+  },
+  "eventInfo": {
+   "gpsLat": "39°09'35 N",
+   "gpsLong": "76°41'02 W",
+   "location": "1000 Blk Dorsey Rd, Hanover, MD",
+   "operatorId": "Operator1",
+   "speedLimit": "25",
+   "systemId": "HALO-001",
+   "violationId": "MOE-002",
+   "vehicleSpeed": "40",
+   "vehicleLaneDistance": "14"
+  },
+  "tracks": [
+   {
+    "time": "2018-02-12 11:17:48.803",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 115.066,
+    "yVelocity": -0.671,
+    "yRange": -8.819
+   },
+   {
+    "time": "2018-02-12 11:17:48.860",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 112.126,
+    "yVelocity": -0.671,
+    "yRange": -9.029
+   },
+   {
+    "time": "2018-02-12 11:17:48.905",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 109.186,
+    "yVelocity": -0.895,
+    "yRange": -9.029
+   },
+   {
+    "time": "2018-02-12 11:17:48.951",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 106.457,
+    "yVelocity": -0.895,
+    "yRange": -9.449
+   },
+   {
+    "time": "2018-02-12 11:17:49.004",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 103.307,
+    "yVelocity": -0.895,
+    "yRange": -9.449
+   },
+   {
+    "time": "2018-02-12 11:17:49.055",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 100.158,
+    "yVelocity": -0.895,
+    "yRange": -9.869
+   },
+   {
+    "time": "2018-02-12 11:17:49.104",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 96.798,
+    "yVelocity": -0.895,
+    "yRange": -9.869
+   },
+   {
+    "time": "2018-02-12 11:17:49.170",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 93.648,
+    "yVelocity": -0.895,
+    "yRange": -10.079
+   },
+   {
+    "time": "2018-02-12 11:17:49.204",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 90.919,
+    "yVelocity": -0.895,
+    "yRange": -10.079
+   },
+   {
+    "time": "2018-02-12 11:17:49.250",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 87.979,
+    "yVelocity": -0.895,
+    "yRange": -10.289
+   },
+   {
+    "time": "2018-02-12 11:17:49.303",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 84.829,
+    "yVelocity": -0.895,
+    "yRange": -10.289
+   },
+   {
+    "time": "2018-02-12 11:17:49.367",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 81.89,
+    "yVelocity": -0.895,
+    "yRange": -10.709
+   },
+   {
+    "time": "2018-02-12 11:17:49.411",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 78.95,
+    "yVelocity": -0.895,
+    "yRange": -10.919
+   },
+   {
+    "time": "2018-02-12 11:17:49.453",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 75.801,
+    "yVelocity": -0.895,
+    "yRange": -11.129
+   },
+   {
+    "time": "2018-02-12 11:17:49.504",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 72.651,
+    "yVelocity": -0.895,
+    "yRange": -11.339
+   },
+   {
+    "time": "2018-02-12 11:17:49.565",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 69.711,
+    "yVelocity": -0.895,
+    "yRange": -11.549
+   },
+   {
+    "time": "2018-02-12 11:17:49.604",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 66.562,
+    "yVelocity": -0.895,
+    "yRange": -11.549
+   },
+   {
+    "time": "2018-02-12 11:17:49.650",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 63.622,
+    "yVelocity": -1.118,
+    "yRange": -11.759
+   },
+   {
+    "time": "2018-02-12 11:17:49.703",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 60.472,
+    "yVelocity": -1.118,
+    "yRange": -11.759
+   },
+   {
+    "time": "2018-02-12 11:17:49.770",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 57.323,
+    "yVelocity": -1.118,
+    "yRange": -11.969
+   },
+   {
+    "time": "2018-02-12 11:17:49.803",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 54.383,
+    "yVelocity": -1.118,
+    "yRange": -12.178
+   },
+   {
+    "time": "2018-02-12 11:17:49.862",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 51.444,
+    "yVelocity": -1.118,
+    "yRange": -12.388
+   },
+   {
+    "time": "2018-02-12 11:17:49.906",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.607,
+    "xRange": 48.294,
+    "yVelocity": -1.118,
+    "yRange": -12.598
+   },
+   {
+    "time": "2018-02-12 11:17:49.951",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.383,
+    "xRange": 45.354,
+    "yVelocity": -1.118,
+    "yRange": -12.808
+   },
+   {
+    "time": "2018-02-12 11:17:50.004",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.16,
+    "xRange": 42.415,
+    "yVelocity": -1.118,
+    "yRange": -13.228
+   },
+   {
+    "time": "2018-02-12 11:17:50.051",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.16,
+    "xRange": 39.475,
+    "yVelocity": -1.118,
+    "yRange": -13.648
+   },
+   {
+    "time": "2018-02-12 11:17:50.107",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.16,
+    "xRange": 36.325,
+    "yVelocity": -1.118,
+    "yRange": -13.858
+   },
+   {
+    "time": "2018-02-12 11:17:50.159",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -41.16,
+    "xRange": 33.386,
+    "yVelocity": -1.118,
+    "yRange": -13.858
+   },
+   {
+    "time": "2018-02-12 11:17:50.203",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.936,
+    "xRange": 30.446,
+    "yVelocity": -1.118,
+    "yRange": -14.068
+   },
+   {
+    "time": "2018-02-12 11:17:50.251",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.712,
+    "xRange": 27.507,
+    "yVelocity": -1.118,
+    "yRange": -14.278
+   },
+   {
+    "time": "2018-02-12 11:17:50.309",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.265,
+    "xRange": 24.777,
+    "yVelocity": -1.118,
+    "yRange": -14.488
+   },
+   {
+    "time": "2018-02-12 11:17:50.405",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -39.594,
+    "xRange": 21.837,
+    "yVelocity": -1.118,
+    "yRange": -15.118
+   },
+   {
+    "time": "2018-02-12 11:17:50.405",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -39.37,
+    "xRange": 19.108,
+    "yVelocity": -1.118,
+    "yRange": -15.748
+   },
+   {
+    "time": "2018-02-12 11:17:50.450",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -39.594,
+    "xRange": 16.168,
+    "yVelocity": -1.342,
+    "yRange": -16.168
+   },
+   {
+    "time": "2018-02-12 11:17:50.503",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -39.818,
+    "xRange": 13.018,
+    "yVelocity": -1.342,
+    "yRange": -16.588
+   },
+   {
+    "time": "2018-02-12 11:17:50.602",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.265,
+    "xRange": 10.079,
+    "yVelocity": -1.342,
+    "yRange": -16.588
+   },
+   {
+    "time": "2018-02-12 11:17:50.609",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.712,
+    "xRange": 7.139,
+    "yVelocity": -1.342,
+    "yRange": -16.588
+   },
+   {
+    "time": "2018-02-12 11:17:50.650",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.936,
+    "xRange": 4.199,
+    "yVelocity": -1.342,
+    "yRange": -16.798
+   },
+   {
+    "time": "2018-02-12 11:17:50.703",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -40.936,
+    "xRange": 1.05,
+    "yVelocity": -1.342,
+    "yRange": -17.008
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "media": {
+   "carImage": "https://halodev.blob.core.windows.net/samples/event3/Event3_MainTag.jpg",
+   "plateImage": "https://halodev.blob.core.windows.net/samples/event3/Event3_SecTag.jpg",
+   "video1": "https://halodev.blob.core.windows.net/samples/event3/Event3_Vid01.mp4",
+   "video2": "https://halodev.blob.core.windows.net/samples/event3/Event3_Vid02.mp4"
+  },
+  "eventInfo": {
+   "gpsLat": "39°09'35 N",
+   "gpsLong": "76°41'02 W",
+   "location": "1000 Blk Dorsey Rd, Hanover, MD",
+   "operatorId": "Operator1",
+   "speedLimit": "25",
+   "systemId": "HALO-001",
+   "violationId": "MOE-003",
+   "vehicleSpeed": "33",
+   "vehicleLaneDistance": "11"
+  },
+  "tracks": [
+   {
+    "time": "2018-02-12 11:18:36.803",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 115.066,
+    "yVelocity": -0.671,
+    "yRange": -6.819
+   },
+   {
+    "time": "2018-02-12 11:18:36.860",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 112.126,
+    "yVelocity": -0.671,
+    "yRange": -7.029
+   },
+   {
+    "time": "2018-02-12 11:18:36.905",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 109.186,
+    "yVelocity": -0.895,
+    "yRange": -7.029
+   },
+   {
+    "time": "2018-02-12 11:18:36.951",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 106.457,
+    "yVelocity": -0.895,
+    "yRange": -7.449
+   },
+   {
+    "time": "2018-02-12 11:18:37.004",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 103.307,
+    "yVelocity": -0.895,
+    "yRange": -7.449
+   },
+   {
+    "time": "2018-02-12 11:18:37.055",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 100.158,
+    "yVelocity": -0.895,
+    "yRange": -7.869
+   },
+   {
+    "time": "2018-02-12 11:18:37.104",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 96.798,
+    "yVelocity": -0.895,
+    "yRange": -7.869
+   },
+   {
+    "time": "2018-02-12 11:18:37.170",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 93.648,
+    "yVelocity": -0.895,
+    "yRange": -8.079
+   },
+   {
+    "time": "2018-02-12 11:18:37.204",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 90.919,
+    "yVelocity": -0.895,
+    "yRange": -8.079
+   },
+   {
+    "time": "2018-02-12 11:18:37.250",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 87.979,
+    "yVelocity": -0.895,
+    "yRange": -8.289
+   },
+   {
+    "time": "2018-02-12 11:18:37.303",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 84.829,
+    "yVelocity": -0.895,
+    "yRange": -8.289
+   },
+   {
+    "time": "2018-02-12 11:18:37.367",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 81.89,
+    "yVelocity": -0.895,
+    "yRange": -8.709
+   },
+   {
+    "time": "2018-02-12 11:18:37.411",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 78.95,
+    "yVelocity": -0.895,
+    "yRange": -8.919
+   },
+   {
+    "time": "2018-02-12 11:18:37.453",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 75.801,
+    "yVelocity": -0.895,
+    "yRange": -9.129
+   },
+   {
+    "time": "2018-02-12 11:18:37.504",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 72.651,
+    "yVelocity": -0.895,
+    "yRange": -9.339
+   },
+   {
+    "time": "2018-02-12 11:18:37.565",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 69.711,
+    "yVelocity": -0.895,
+    "yRange": -9.549
+   },
+   {
+    "time": "2018-02-12 11:18:37.604",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 66.562,
+    "yVelocity": -0.895,
+    "yRange": -9.549
+   },
+   {
+    "time": "2018-02-12 11:18:37.650",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 63.622,
+    "yVelocity": -1.118,
+    "yRange": -9.759
+   },
+   {
+    "time": "2018-02-12 11:18:37.703",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 60.472,
+    "yVelocity": -1.118,
+    "yRange": -9.759
+   },
+   {
+    "time": "2018-02-12 11:18:37.770",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 57.323,
+    "yVelocity": -1.118,
+    "yRange": -9.969
+   },
+   {
+    "time": "2018-02-12 11:18:37.803",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 54.383,
+    "yVelocity": -1.118,
+    "yRange": -10.178
+   },
+   {
+    "time": "2018-02-12 11:18:37.862",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 51.444,
+    "yVelocity": -1.118,
+    "yRange": -10.388
+   },
+   {
+    "time": "2018-02-12 11:18:37.906",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.607,
+    "xRange": 48.294,
+    "yVelocity": -1.118,
+    "yRange": -10.598
+   },
+   {
+    "time": "2018-02-12 11:18:37.951",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.383,
+    "xRange": 45.354,
+    "yVelocity": -1.118,
+    "yRange": -10.808
+   },
+   {
+    "time": "2018-02-12 11:18:38.004",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.16,
+    "xRange": 42.415,
+    "yVelocity": -1.118,
+    "yRange": -11.228
+   },
+   {
+    "time": "2018-02-12 11:18:38.051",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.16,
+    "xRange": 39.475,
+    "yVelocity": -1.118,
+    "yRange": -11.648
+   },
+   {
+    "time": "2018-02-12 11:18:38.107",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.16,
+    "xRange": 36.325,
+    "yVelocity": -1.118,
+    "yRange": -11.858
+   },
+   {
+    "time": "2018-02-12 11:18:38.159",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -36.16,
+    "xRange": 33.386,
+    "yVelocity": -1.118,
+    "yRange": -11.858
+   },
+   {
+    "time": "2018-02-12 11:18:38.203",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -35.936,
+    "xRange": 30.446,
+    "yVelocity": -1.118,
+    "yRange": -12.068
+   },
+   {
+    "time": "2018-02-12 11:18:38.251",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -34.712,
+    "xRange": 27.507,
+    "yVelocity": -1.118,
+    "yRange": -12.278
+   },
+   {
+    "time": "2018-02-12 11:18:38.309",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -33.265,
+    "xRange": 24.777,
+    "yVelocity": -1.118,
+    "yRange": -12.488
+   },
+   {
+    "time": "2018-02-12 11:18:38.405",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -32.594,
+    "xRange": 21.837,
+    "yVelocity": -1.118,
+    "yRange": -12.118
+   },
+   {
+    "time": "2018-02-12 11:18:38.405",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -32.37,
+    "xRange": 19.108,
+    "yVelocity": -1.118,
+    "yRange": -12.748
+   },
+   {
+    "time": "2018-02-12 11:18:38.450",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -32.594,
+    "xRange": 16.168,
+    "yVelocity": -1.342,
+    "yRange": -11.168
+   },
+   {
+    "time": "2018-02-12 11:18:38.503",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -32.818,
+    "xRange": 13.018,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:38.602",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -33.265,
+    "xRange": 10.079,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:38.609",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -33.712,
+    "xRange": 7.139,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:38.650",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -33.936,
+    "xRange": 4.199,
+    "yVelocity": -1.342,
+    "yRange": -11.798
+   },
+   {
+    "time": "2018-02-12 11:18:38.703",
+    "id": 12,
+    "length": 4.4,
+    "xVelocity": -33.936,
+    "xRange": 1.05,
+    "yVelocity": -1.342,
+    "yRange": -11.008
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "media": {
+   "carImage": "https://halodev.blob.core.windows.net/samples/event4/Event4_MainTag.jpg",
+   "plateImage": "https://halodev.blob.core.windows.net/samples/event4/Event4_SecTag.jpg",
+   "video1": "https://halodev.blob.core.windows.net/samples/event4/Event4_Vid01.mp4",
+   "video2": "https://halodev.blob.core.windows.net/samples/event4/Event4_Vid02.mp4"
+  },
+  "eventInfo": {
+   "gpsLat": "39°09'35 N",
+   "gpsLong": "76°41'02 W",
+   "location": "1000 Blk Dorsey Rd, Hanover, MD",
+   "operatorId": "Operator1",
+   "speedLimit": "25",
+   "systemId": "HALO-001",
+   "violationId": "MOE-004",
+   "vehicleSpeed": "40",
+   "vehicleLaneDistance": "11"
+  },
+  "tracks": [
+   {
+    "time": "2018-02-12 11:18:47.803",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 115.066,
+    "yVelocity": -0.671,
+    "yRange": -6.819
+   },
+   {
+    "time": "2018-02-12 11:18:47.860",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 112.126,
+    "yVelocity": -0.671,
+    "yRange": -7.029
+   },
+   {
+    "time": "2018-02-12 11:18:47.905",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 109.186,
+    "yVelocity": -0.895,
+    "yRange": -7.029
+   },
+   {
+    "time": "2018-02-12 11:18:47.951",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 106.457,
+    "yVelocity": -0.895,
+    "yRange": -7.449
+   },
+   {
+    "time": "2018-02-12 11:18:48.004",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 103.307,
+    "yVelocity": -0.895,
+    "yRange": -7.449
+   },
+   {
+    "time": "2018-02-12 11:18:48.055",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 100.158,
+    "yVelocity": -0.895,
+    "yRange": -7.869
+   },
+   {
+    "time": "2018-02-12 11:18:48.104",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 96.798,
+    "yVelocity": -0.895,
+    "yRange": -7.869
+   },
+   {
+    "time": "2018-02-12 11:18:48.170",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 93.648,
+    "yVelocity": -0.895,
+    "yRange": -8.079
+   },
+   {
+    "time": "2018-02-12 11:18:48.204",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 90.919,
+    "yVelocity": -0.895,
+    "yRange": -8.079
+   },
+   {
+    "time": "2018-02-12 11:18:48.250",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 87.979,
+    "yVelocity": -0.895,
+    "yRange": -8.289
+   },
+   {
+    "time": "2018-02-12 11:18:48.303",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 84.829,
+    "yVelocity": -0.895,
+    "yRange": -8.289
+   },
+   {
+    "time": "2018-02-12 11:18:48.367",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 81.89,
+    "yVelocity": -0.895,
+    "yRange": -8.709
+   },
+   {
+    "time": "2018-02-12 11:18:48.411",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 78.95,
+    "yVelocity": -0.895,
+    "yRange": -8.919
+   },
+   {
+    "time": "2018-02-12 11:18:48.453",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 75.801,
+    "yVelocity": -0.895,
+    "yRange": -9.129
+   },
+   {
+    "time": "2018-02-12 11:18:48.504",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 72.651,
+    "yVelocity": -0.895,
+    "yRange": -9.339
+   },
+   {
+    "time": "2018-02-12 11:18:48.565",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 69.711,
+    "yVelocity": -0.895,
+    "yRange": -9.549
+   },
+   {
+    "time": "2018-02-12 11:18:48.604",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 66.562,
+    "yVelocity": -0.895,
+    "yRange": -9.549
+   },
+   {
+    "time": "2018-02-12 11:18:48.650",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 63.622,
+    "yVelocity": -1.118,
+    "yRange": -9.759
+   },
+   {
+    "time": "2018-02-12 11:18:48.703",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 60.472,
+    "yVelocity": -1.118,
+    "yRange": -9.759
+   },
+   {
+    "time": "2018-02-12 11:18:48.770",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 57.323,
+    "yVelocity": -1.118,
+    "yRange": -9.969
+   },
+   {
+    "time": "2018-02-12 11:18:48.803",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 54.383,
+    "yVelocity": -1.118,
+    "yRange": -10.178
+   },
+   {
+    "time": "2018-02-12 11:18:48.862",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 51.444,
+    "yVelocity": -1.118,
+    "yRange": -10.388
+   },
+   {
+    "time": "2018-02-12 11:18:48.906",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.607,
+    "xRange": 48.294,
+    "yVelocity": -1.118,
+    "yRange": -10.598
+   },
+   {
+    "time": "2018-02-12 11:18:48.951",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.383,
+    "xRange": 45.354,
+    "yVelocity": -1.118,
+    "yRange": -10.808
+   },
+   {
+    "time": "2018-02-12 11:18:49.004",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.16,
+    "xRange": 42.415,
+    "yVelocity": -1.118,
+    "yRange": -11.228
+   },
+   {
+    "time": "2018-02-12 11:18:49.051",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.16,
+    "xRange": 39.475,
+    "yVelocity": -1.118,
+    "yRange": -11.648
+   },
+   {
+    "time": "2018-02-12 11:18:49.107",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.16,
+    "xRange": 36.325,
+    "yVelocity": -1.118,
+    "yRange": -11.858
+   },
+   {
+    "time": "2018-02-12 11:18:49.159",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -41.16,
+    "xRange": 33.386,
+    "yVelocity": -1.118,
+    "yRange": -11.858
+   },
+   {
+    "time": "2018-02-12 11:18:49.203",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -40.936,
+    "xRange": 30.446,
+    "yVelocity": -1.118,
+    "yRange": -12.068
+   },
+   {
+    "time": "2018-02-12 11:18:49.251",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.712,
+    "xRange": 27.507,
+    "yVelocity": -1.118,
+    "yRange": -12.278
+   },
+   {
+    "time": "2018-02-12 11:18:49.309",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.265,
+    "xRange": 24.777,
+    "yVelocity": -1.118,
+    "yRange": -12.488
+   },
+   {
+    "time": "2018-02-12 11:18:49.405",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -38.594,
+    "xRange": 21.837,
+    "yVelocity": -1.118,
+    "yRange": -12.118
+   },
+   {
+    "time": "2018-02-12 11:18:49.405",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -38.37,
+    "xRange": 19.108,
+    "yVelocity": -1.118,
+    "yRange": -12.748
+   },
+   {
+    "time": "2018-02-12 11:18:49.450",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -38.594,
+    "xRange": 16.168,
+    "yVelocity": -1.342,
+    "yRange": -11.168
+   },
+   {
+    "time": "2018-02-12 11:18:49.503",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -38.818,
+    "xRange": 13.018,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:49.602",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.265,
+    "xRange": 10.079,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:49.609",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.712,
+    "xRange": 7.139,
+    "yVelocity": -1.342,
+    "yRange": -11.588
+   },
+   {
+    "time": "2018-02-12 11:18:49.650",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.936,
+    "xRange": 4.199,
+    "yVelocity": -1.342,
+    "yRange": -11.798
+   },
+   {
+    "time": "2018-02-12 11:18:49.703",
+    "id": 12,
+    "length": 12,
+    "xVelocity": -39.936,
+    "xRange": 1.05,
+    "yVelocity": -1.342,
+    "yRange": -11.008
+   }
+  ]
+ }
+]
